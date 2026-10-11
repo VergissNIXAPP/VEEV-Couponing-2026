@@ -1,0 +1,26 @@
+Aus Excel 200000.xlsx ausgeschlossen (REWE + VEEV-Geraet + Wandkasse > 0):
+
+SAP2119777 | Rewe Hansen OHG | Flensburg
+SAP2016918 | REWE | Tönning
+SAP2019054 | REWE | Sankt Peter-Ording
+SAP2021338 | REWE | Flensburg
+SAP2027272 | REWE Julia Radke oHG | Hennstedt
+SAP2035783 | REWE | Tellingstedt
+SAP2037452 | REWE Markt GmbH | Flensburg
+SAP2053018 | REWE | Hanerau-Hademarschen
+SAP2057874 | REWE Markt GmbH | Westerrönfeld
+SAP2456889 | REWE | Schleswig
+SAP2094038 | REWE | Lunden
+SAP2105520 | REWE | Kiel
+SAP2264977 | REWE | Flensburg
+SAP2446845 | REWE Markt GmbH | Schleswig
+SAP2497950 | REWE Markt GmbH | Schenefeld
+SAP2515970 | REWE Steffen Stein oHG | Eckernförde
+SAP2531826 | REWE Nils-Julian Drescher oHG | Kappeln
+SAP2546059 | Rewe Schaller Patrick oHG | Schleswig
+SAP2551191 | REWE Arsim Haxhijaj oHG | Flensburg
+SAP2561306 | Rewe Regie | Bredstedt
+SAP2571379 | Rewe Bastian Preuß oHG | Kiel
+
+App-Maerkte vorher: 90 | entfernt: 21 | jetzt: 69 | Raumtools weiterhin: 14
+Bereits lokal gespeicherte Fotos werden nicht automatisch gelöscht. Bitte vor einem Update exportieren.
