@@ -1,0 +1,1 @@
+{"name": "VEEV FotoManager", "short_name": "VEEV Foto", "description": "Marktfotos mit SAP-Dateinamen verwalten", "start_url": "./index.html", "scope": "./", "display": "standalone", "background_color": "#07152a", "theme_color": "#07152a", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]}
